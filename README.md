@@ -4,4 +4,4 @@ I created a Typing Speed Tester using HTML, CSS, Js and JQ. user can check their
 Live Dimo : https://it20118372.github.io/Typing_Speed_Tester/
 
 
-***Special : this supports only for the pc keyboards. Mobile phone uses not recommends*** 
+***Special : this supports only for the pc keyboards. Mobile phone uses not recommend*** 
